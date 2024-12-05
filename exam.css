@@ -1,0 +1,76 @@
+#header{
+	
+	color:cyan;
+	text-shadow:4px 3px red;
+	font-size:16px;
+	font-family:algerian;
+	text-decoration:underline;
+}
+h6{
+	color:red;
+	font-family:arial;
+	font-weight:strong;
+	font-size:35px;
+	
+}
+h5{
+	color:red;
+	font-family:arial;
+	font-weight:strong;
+	font-size:35px;
+	
+}
+h4{
+color:green;
+font-weight:strong;
+
+}
+h3{
+	color:blue;
+	font-weight:strong;
+	
+}
+body{
+	background-color:lightblue;
+	border:15px dashed green;
+	padding:21px;
+
+}
+.footer{
+	color:hsl(120, 100%, 20%);
+font-size:35px;
+}
+.p{
+	color:#00ff00;
+	
+}
+a[href]{
+	color:red;
+	font-size:12px;
+	
+}
+img[src]{
+	text-align:center;
+
+}
+h1{
+	color:#ffffee;
+	font-family:sans-serif;
+	text-decoration:underline;
+	text-align:center;
+	letter-spacing: 2px; 
+}
+h2{
+	color:green;
+	font-family:heletica;
+	font-variant:small-caps;
+	font-size:40px;
+}
+p{
+	color:darkred;
+	font-weight:light;
+	letter-spacing:0.8pt;
+	word-spacing:5px;
+	font-size:30px;
+}
+
